@@ -1,0 +1,180 @@
+{
+    "description": "The epic wishlist of Dragon Daddy Croc. Made with https://wishlists.littlelight.club/?#/wishlist/e/2",
+    "name": "drummerBRIT's Wishlist",
+    "data": [
+        {
+            "description": "My God Roll",
+            "hash": 3229982889,
+            "name": "Target",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    692399809
+                ],
+                [
+                    2298656195
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3229982889,
+            "name": "Better General Reciprocity",
+            "plugs": [
+                [
+                    4090651448,
+                    1840239774,
+                    839105230
+                ],
+                [
+                    3230963543,
+                    1431678320,
+                    1087426260,
+                    4134353779,
+                    106909392
+                ],
+                [
+                    692399809
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3229982889,
+            "name": "Only Reciprocity",
+            "plugs": [
+                [
+                    692399809
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3229982889,
+            "name": "Better General CoL",
+            "plugs": [
+                [
+                    4090651448,
+                    1840239774,
+                    839105230
+                ],
+                [
+                    3230963543,
+                    1431678320,
+                    1087426260,
+                    4134353779,
+                    106909392
+                ],
+                [
+                    2298656195
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3229982889,
+            "name": "Only CoL",
+            "plugs": [
+                [
+                    2298656195
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3229982889,
+            "name": "Better Barrell Reciprocity",
+            "plugs": [
+                [
+                    4090651448,
+                    1840239774,
+                    839105230
+                ],
+                [
+                    692399809
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3229982889,
+            "name": "Better Mag Reciprocity",
+            "plugs": [
+                [
+                    3230963543,
+                    1431678320,
+                    1087426260,
+                    4134353779,
+                    106909392
+                ],
+                [
+                    692399809
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3229982889,
+            "name": "Better Barrell CoL",
+            "plugs": [
+                [
+                    4090651448,
+                    1840239774,
+                    839105230
+                ],
+                [
+                    2298656195
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3229982889,
+            "name": "Better Mag CoL",
+            "plugs": [
+                [
+                    3230963543,
+                    1431678320,
+                    1087426260,
+                    4134353779,
+                    106909392
+                ],
+                [
+                    2298656195
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        }
+    ]
+}
