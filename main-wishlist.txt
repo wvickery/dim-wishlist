@@ -1,2 +1,5 @@
+title:drummerBRIT's Wishlist
+description:The epic wishlist of Dragon Daddy Croc.
+
 // Adamantite PvE - High Handling, High Reload Speed, Circle of Life grants a damage bonus whenever you heal allies with the hip fire mode, and paired with Reciprocity in column one, you too will be benefiting from the heal.
 dimwishlist:item=3229982889&perks=1840239774,3230963543,692399809,2298656195
