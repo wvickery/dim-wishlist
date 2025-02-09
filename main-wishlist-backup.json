@@ -52,19 +52,6 @@
         {
             "description": "",
             "hash": 3229982889,
-            "name": "Only Reciprocity",
-            "plugs": [
-                [
-                    692399809
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3229982889,
             "name": "Better General CoL",
             "plugs": [
                 [
@@ -81,37 +68,6 @@
                 ],
                 [
                     2298656195
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3229982889,
-            "name": "Only CoL",
-            "plugs": [
-                [
-                    2298656195
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3229982889,
-            "name": "Better Barrell Reciprocity",
-            "plugs": [
-                [
-                    4090651448,
-                    1840239774,
-                    839105230
-                ],
-                [
-                    692399809
                 ]
             ],
             "tags": [
@@ -141,7 +97,7 @@
         {
             "description": "",
             "hash": 3229982889,
-            "name": "Better Barrell CoL",
+            "name": "Better Barrell Reciprocity",
             "plugs": [
                 [
                     4090651448,
@@ -149,7 +105,7 @@
                     839105230
                 ],
                 [
-                    2298656195
+                    692399809
                 ]
             ],
             "tags": [
@@ -168,6 +124,50 @@
                     4134353779,
                     106909392
                 ],
+                [
+                    2298656195
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3229982889,
+            "name": "Better Barrell CoL",
+            "plugs": [
+                [
+                    4090651448,
+                    1840239774,
+                    839105230
+                ],
+                [
+                    2298656195
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3229982889,
+            "name": "Only Reciprocity",
+            "plugs": [
+                [
+                    692399809
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3229982889,
+            "name": "Only CoL",
+            "plugs": [
                 [
                     2298656195
                 ]
