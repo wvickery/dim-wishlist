@@ -1,5 +1,5 @@
 title:drummerBRIT's Wishlist
-description:The epic wishlist of Dragon Daddy Croc.
+description:The epic wishlist of Dragon Daddy Croc. Made with https://wishlists.littlelight.club/?#/wishlist/e/2
 
 // Adamantite - PvE (god-pve)
 //notes: My God Roll tags:god-pve
