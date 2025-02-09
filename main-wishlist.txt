@@ -1,6 +1,16 @@
 title:drummerBRIT's Wishlist
 description:The epic wishlist of Dragon Daddy Croc.
 
-// Adamantite - PvE Only Circle of Life (god-pve)
-//notes: tags:god-pve
+// Adamantite - PvE (god-pve)
+//notes: My God Roll tags:god-pve
 dimwishlist:item=3229982889&perks=1840239774,3230963543,692399809,2298656195
+
+
+// Adamantite - Only Reciprocity (pve)
+//notes: tags:pve
+dimwishlist:item=3229982889&perks=692399809
+
+
+// Adamantite - Only Circle of Life (pve)
+//notes: tags:pve
+dimwishlist:item=3229982889&perks=2298656195
