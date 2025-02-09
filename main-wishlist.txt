@@ -25,11 +25,6 @@ dimwishlist:item=3229982889&perks=839105230,4134353779,692399809
 dimwishlist:item=3229982889&perks=839105230,106909392,692399809
 
 
-// Adamantite - Only Reciprocity (pve)
-//notes: tags:pve
-dimwishlist:item=3229982889&perks=692399809
-
-
 // Adamantite - Better General CoL (pve)
 //notes: tags:pve
 dimwishlist:item=3229982889&perks=4090651448,3230963543,2298656195
@@ -47,11 +42,6 @@ dimwishlist:item=3229982889&perks=839105230,1431678320,2298656195
 dimwishlist:item=3229982889&perks=839105230,1087426260,2298656195
 dimwishlist:item=3229982889&perks=839105230,4134353779,2298656195
 dimwishlist:item=3229982889&perks=839105230,106909392,2298656195
-
-
-// Adamantite - Only CoL (pve)
-//notes: tags:pve
-dimwishlist:item=3229982889&perks=2298656195
 
 
 // Adamantite - Better Barrell Reciprocity (pve)
@@ -84,5 +74,15 @@ dimwishlist:item=3229982889&perks=1431678320,2298656195
 dimwishlist:item=3229982889&perks=1087426260,2298656195
 dimwishlist:item=3229982889&perks=4134353779,2298656195
 dimwishlist:item=3229982889&perks=106909392,2298656195
+
+
+// Adamantite - Only Reciprocity (pve)
+//notes: tags:pve
+dimwishlist:item=3229982889&perks=692399809
+
+
+// Adamantite - Only CoL (pve)
+//notes: tags:pve
+dimwishlist:item=3229982889&perks=2298656195
 
 
