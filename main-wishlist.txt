@@ -63,8 +63,8 @@ dimwishlist:item=615373993&perks=3400784728
 
 // Eyes Unveiled - Basic Perks (Just Right Perk) (pve)
 //notes: tags:pve
-dimwishlist:item=615373993&perks=4104185692
 dimwishlist:item=615373993&perks=1427256713
+dimwishlist:item=615373993&perks=4104185692
 
 
 // Adamantite - Target (god-pve)
