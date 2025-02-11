@@ -1,5 +1,5 @@
 title:drummerBRIT's Wishlist
-description:The epic wishlist of Dragon Daddy Croc. Made with https://wishlists.littlelight.club/?#/wishlist/e/2
+description:The epic wishlist of Dragon Daddy Croc. Made with https://wishlists.littlelight.club
 
 // Adamantite - Target (god-pve)
 //notes: My God Roll tags:god-pve
@@ -44,13 +44,6 @@ dimwishlist:item=3229982889&perks=839105230,4134353779,2298656195
 dimwishlist:item=3229982889&perks=839105230,106909392,2298656195
 
 
-// Adamantite - Better Barrell Reciprocity (pve)
-//notes: tags:pve
-dimwishlist:item=3229982889&perks=4090651448,692399809
-dimwishlist:item=3229982889&perks=1840239774,692399809
-dimwishlist:item=3229982889&perks=839105230,692399809
-
-
 // Adamantite - Better Mag Reciprocity (pve)
 //notes: tags:pve
 dimwishlist:item=3229982889&perks=3230963543,692399809
@@ -60,11 +53,11 @@ dimwishlist:item=3229982889&perks=4134353779,692399809
 dimwishlist:item=3229982889&perks=106909392,692399809
 
 
-// Adamantite - Better Barrell CoL (pve)
+// Adamantite - Better Barrell Reciprocity (pve)
 //notes: tags:pve
-dimwishlist:item=3229982889&perks=4090651448,2298656195
-dimwishlist:item=3229982889&perks=1840239774,2298656195
-dimwishlist:item=3229982889&perks=839105230,2298656195
+dimwishlist:item=3229982889&perks=4090651448,692399809
+dimwishlist:item=3229982889&perks=1840239774,692399809
+dimwishlist:item=3229982889&perks=839105230,692399809
 
 
 // Adamantite - Better Mag CoL (pve)
@@ -76,6 +69,13 @@ dimwishlist:item=3229982889&perks=4134353779,2298656195
 dimwishlist:item=3229982889&perks=106909392,2298656195
 
 
+// Adamantite - Better Barrell CoL (pve)
+//notes: tags:pve
+dimwishlist:item=3229982889&perks=4090651448,2298656195
+dimwishlist:item=3229982889&perks=1840239774,2298656195
+dimwishlist:item=3229982889&perks=839105230,2298656195
+
+
 // Adamantite - Only Reciprocity (pve)
 //notes: tags:pve
 dimwishlist:item=3229982889&perks=692399809
@@ -84,5 +84,30 @@ dimwishlist:item=3229982889&perks=692399809
 // Adamantite - Only CoL (pve)
 //notes: tags:pve
 dimwishlist:item=3229982889&perks=2298656195
+
+
+// Psychopomp - Target (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,3218042543
+
+
+// Psychopomp - Target General (pve)
+//notes: tags:pve
+dimwishlist:item=4028298892&perks=1478423395,2822142346,2779035018,3218042543
+dimwishlist:item=4028298892&perks=1478423395,2822142346,2779035018,4104185692
+dimwishlist:item=4028298892&perks=1478423395,2822142346,2779035018,3523296417
+dimwishlist:item=4028298892&perks=1478423395,2822142346,3987942396,3218042543
+dimwishlist:item=4028298892&perks=1478423395,2822142346,3987942396,4104185692
+dimwishlist:item=4028298892&perks=1478423395,2822142346,3987942396,3523296417
+
+
+// Psychopomp - Target Basic (Perks) (pve)
+//notes: tags:pve
+dimwishlist:item=4028298892&perks=2779035018,3218042543
+dimwishlist:item=4028298892&perks=2779035018,4104185692
+dimwishlist:item=4028298892&perks=2779035018,3523296417
+dimwishlist:item=4028298892&perks=3987942396,3218042543
+dimwishlist:item=4028298892&perks=3987942396,4104185692
+dimwishlist:item=4028298892&perks=3987942396,3523296417
 
 
