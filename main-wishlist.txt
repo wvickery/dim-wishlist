@@ -21,6 +21,28 @@ dimwishlist:item=547165496&perks=1749209109
 dimwishlist:item=547165496&perks=31345821
 
 
+// Eyes Unveiled - Heretical Target (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=615373993&perks=839105230,1687452232,3643424744,1427256713,120721526
+
+
+// Eyes Unveiled - Base Target (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=615373993&perks=839105230,1687452232,3643424744,1427256713,878237828
+
+
+// Eyes Unveiled - Better Battery Target (pve)
+//notes: tags:pve
+dimwishlist:item=615373993&perks=1687452232,3643424744,1427256713,878237828
+dimwishlist:item=615373993&perks=1687452232,3643424744,1427256713,120721526
+
+
+// Eyes Unveiled - Better Barrell Target  (pve)
+//notes: tags:pve
+dimwishlist:item=615373993&perks=839105230,3643424744,1427256713,878237828
+dimwishlist:item=615373993&perks=839105230,3643424744,1427256713,120721526
+
+
 // Adamantite - Target (god-pve)
 //notes: My God Roll tags:god-pve
 dimwishlist:item=3229982889&perks=1840239774,3230963543,692399809,2298656195
