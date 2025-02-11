@@ -43,10 +43,28 @@ dimwishlist:item=615373993&perks=839105230,3643424744,1427256713,878237828
 dimwishlist:item=615373993&perks=839105230,3643424744,1427256713,120721526
 
 
-// Eyes Unveiled - Basic Perks (pve)
+// Eyes Unveiled - Basic Perks (Both Columns) (pve)
 //notes: tags:pve
 dimwishlist:item=615373993&perks=3643424744,1427256713,878237828
 dimwishlist:item=615373993&perks=3643424744,1427256713,120721526
+dimwishlist:item=615373993&perks=3643424744,4104185692,878237828
+dimwishlist:item=615373993&perks=3643424744,4104185692,120721526
+dimwishlist:item=615373993&perks=3400784728,1427256713,878237828
+dimwishlist:item=615373993&perks=3400784728,1427256713,120721526
+dimwishlist:item=615373993&perks=3400784728,4104185692,878237828
+dimwishlist:item=615373993&perks=3400784728,4104185692,120721526
+
+
+// Eyes Unveiled - Basic Perks (Just Left Perk) (pve)
+//notes: tags:pve
+dimwishlist:item=615373993&perks=3643424744
+dimwishlist:item=615373993&perks=3400784728
+
+
+// Eyes Unveiled - Basic Perks (Just Right Perk) (pve)
+//notes: tags:pve
+dimwishlist:item=615373993&perks=3643424744
+dimwishlist:item=615373993&perks=3400784728
 
 
 // Adamantite - Target (god-pve)
