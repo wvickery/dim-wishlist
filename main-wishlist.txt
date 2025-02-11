@@ -1,6 +1,26 @@
 title:drummerBRIT's Wishlist
 description:The epic wishlist of Dragon Daddy Croc. Made with https://wishlists.littlelight.club
 
+// Abyssal Edge - Add Clear Target (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=547165496&perks=3666208348,1749209109,31345821
+
+
+// Abyssal Edge - Add Clear General (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=547165496&perks=1749209109,31345821
+
+
+// Abyssal Edge - Only Relentless Strikes (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=547165496&perks=1749209109
+
+
+// Abyssal Edge - Only Sword Logic (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=547165496&perks=31345821
+
+
 // Adamantite - Target (god-pve)
 //notes: My God Roll tags:god-pve
 dimwishlist:item=3229982889&perks=1840239774,3230963543,692399809,2298656195
