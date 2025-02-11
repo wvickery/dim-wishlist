@@ -446,17 +446,47 @@
         {
             "description": "",
             "hash": 615373993,
-            "name": "Basic Perks",
+            "name": "Basic Perks (Both Columns)",
             "plugs": [
                 [
-                    3643424744
+                    3643424744,
+                    3400784728
                 ],
                 [
-                    1427256713
+                    1427256713,
+                    4104185692
                 ],
                 [
                     878237828,
                     120721526
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 615373993,
+            "name": "Basic Perks (Just Left Perk)",
+            "plugs": [
+                [
+                    3643424744,
+                    3400784728
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 615373993,
+            "name": "Basic Perks (Just Right Perk)",
+            "plugs": [
+                [
+                    3643424744,
+                    3400784728
                 ]
             ],
             "tags": [
