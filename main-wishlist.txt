@@ -98,6 +98,35 @@ dimwishlist:item=727781522&perks=1427256713,878237828
 dimwishlist:item=727781522&perks=4104185692,878237828
 
 
+// Qua Furor V - Target (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=751880654&perks=839105230,2420895100,1955165503,2848615171,1050127423
+
+
+// Qua Furor V - Better Mag (pve)
+//notes: tags:pve
+dimwishlist:item=751880654&perks=2420895100,1955165503,2848615171,1050127423
+
+
+// Qua Furor V - Better Barrel (pve)
+//notes: tags:pve
+dimwishlist:item=751880654&perks=839105230,1955165503,2848615171,1050127423
+
+
+// Qua Furor V - Just Perks (pve)
+//notes: tags:pve
+dimwishlist:item=751880654&perks=1955165503,2848615171,1050127423
+
+
+// Qua Furor V - Just Left Perk (pve)
+//notes: tags:pve
+dimwishlist:item=751880654&perks=1955165503,1050127423
+
+
+// Qua Furor V - Just Right Perk ()
+dimwishlist:item=751880654&perks=2848615171,1050127423
+
+
 // Adamantite - Target (god-pve)
 //notes: My God Roll tags:god-pve
 dimwishlist:item=3229982889&perks=1840239774,3230963543,692399809,2298656195
