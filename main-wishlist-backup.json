@@ -485,13 +485,129 @@
             "name": "Basic Perks (Just Right Perk)",
             "plugs": [
                 [
-                    3643424744,
-                    3400784728
+                    1427256713,
+                    4104185692
                 ]
             ],
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "",
+            "hash": 727781522,
+            "name": "Base Target",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1687452232
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    1427256713
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 727781522,
+            "name": "Better Battery Target",
+            "plugs": [
+                [
+                    1687452232
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    1427256713
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 727781522,
+            "name": "Better Barrell Target",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    1427256713
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "",
+            "hash": 727781522,
+            "name": "Basic Perks (Both Columns)",
+            "plugs": [
+                [
+                    3643424744,
+                    3400784728
+                ],
+                [
+                    1427256713,
+                    4104185692
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "",
+            "hash": 727781522,
+            "name": "Basic Perks (Just Left Perk)",
+            "plugs": [
+                [
+                    3643424744,
+                    3400784728
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "",
+            "hash": 727781522,
+            "name": "Basic Perks (Just Right Perk)",
+            "plugs": [
+                [
+                    1427256713,
+                    4104185692
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": []
         }
     ]
 }
