@@ -1,6 +1,56 @@
 title:drummerBRIT's Wishlist
 description:The epic wishlist of Dragon Daddy Croc. Made with https://wishlists.littlelight.club
 
+// Boondoggle Mk. 55 - PvP Target (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=32287609&perks=1482024992,1885400500,1195158366,3673922083,2437618208
+
+
+// Boondoggle Mk. 55 - PvP Target (pvp)
+//notes: tags:pvp
+dimwishlist:item=32287609&perks=1482024992,1885400500,1195158366,3673922083,2437618208
+
+
+// Boondoggle Mk. 55 - PvP Target (Sans Rounds) (pvp)
+//notes: tags:pvp
+dimwishlist:item=32287609&perks=1482024992,1195158366,3673922083,2437618208
+
+
+// Boondoggle Mk. 55 - PvP Target (Sans Barrel) (pvp)
+//notes: tags:pvp
+dimwishlist:item=32287609&perks=1885400500,1195158366,3673922083,2437618208
+
+
+// Boondoggle Mk. 55 - PvP Target (Sans Adagio) (pvp)
+//notes: tags:pvp
+dimwishlist:item=32287609&perks=1482024992,1885400500,1195158366,2437618208
+
+
+// Boondoggle Mk. 55 - PvP Target (Sans Encore) (pvp)
+//notes: tags:pvp
+dimwishlist:item=32287609&perks=1482024992,1885400500,3673922083,2437618208
+
+
+// Boondoggle Mk. 55 - PvP Target (Sans Perks) (pvp)
+//notes: tags:pvp
+dimwishlist:item=32287609&perks=1482024992,1885400500,2437618208
+
+
+// Boondoggle Mk. 55 - PvP Target (Sans Barrel/Rounds) (pvp)
+//notes: tags:pvp
+dimwishlist:item=32287609&perks=1195158366,3673922083,2437618208
+
+
+// Boondoggle Mk. 55 - PvP Target (Just Encore) (pvp)
+//notes: tags:pvp
+dimwishlist:item=32287609&perks=1195158366,2437618208
+
+
+// Boondoggle Mk. 55 - PvP Target (Just Adagio) (pvp)
+//notes: tags:pvp
+dimwishlist:item=32287609&perks=3673922083,2437618208
+
+
 // Abyssal Edge - Add Clear Target (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=547165496&perks=3666208348,1749209109,31345821
