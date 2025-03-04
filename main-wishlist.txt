@@ -227,6 +227,50 @@ dimwishlist:item=3615421669&perks=2978966579,3988215619
 dimwishlist:item=3615421669&perks=124408337,2978966579,3988215619
 
 
+// Admetus-D - PVE Target (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3776430252&perks=1482024992,1561002382,776531651,1464081238,1607056502
+
+
+// Admetus-D - PVP Target (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3776430252&perks=1482024992,1561002382,2579169598,555281244,1607056502
+dimwishlist:item=3776430252&perks=1482024992,1561002382,2579169598,1134488199,1607056502
+
+
+// Admetus-D - PVP Target (Just Perk 2) (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3776430252&perks=555281244,1607056502
+dimwishlist:item=3776430252&perks=1134488199,1607056502
+
+
+// Admetus-D - PVE Target (Just Perks) (pve)
+//notes: tags:pve
+dimwishlist:item=3776430252&perks=776531651,1464081238,1607056502
+
+
+// Admetus-D - PVE Target (Just Perk 1) (pve)
+//notes: tags:pve
+dimwishlist:item=3776430252&perks=776531651,1607056502
+
+
+// Admetus-D - PVE Target (Just Perk 2) (pve)
+//notes: tags:pve
+dimwishlist:item=3776430252&perks=1464081238,1607056502
+dimwishlist:item=3776430252&perks=1134488199,1607056502
+
+
+// Admetus-D - PVP Target (Just Perks) (pvp)
+//notes: tags:pvp
+dimwishlist:item=3776430252&perks=2579169598,555281244,1607056502
+dimwishlist:item=3776430252&perks=2579169598,1134488199,1607056502
+
+
+// Admetus-D - PVP Target (Just Perk 1) (pvp)
+//notes: tags:pvp
+dimwishlist:item=3776430252&perks=2579169598,1607056502
+
+
 // Psychopomp - Target (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,3218042543
