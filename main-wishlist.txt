@@ -212,6 +212,21 @@ dimwishlist:item=3229982889&perks=692399809
 dimwishlist:item=3229982889&perks=2298656195
 
 
+// Suspectum-4fr - Champion God Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3615421669&perks=1392496348,1483536627,124408337,2978966579,3988215619
+
+
+// Suspectum-4fr - Champion God Roll (Just Chill Clip) (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3615421669&perks=2978966579,3988215619
+
+
+// Suspectum-4fr - Champion God Roll (Perks) (pve)
+//notes: tags:pve
+dimwishlist:item=3615421669&perks=124408337,2978966579,3988215619
+
+
 // Psychopomp - Target (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,3218042543
