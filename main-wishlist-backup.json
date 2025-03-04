@@ -942,6 +942,214 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 32287609,
+            "name": "PvP Target",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1195158366
+                ],
+                [
+                    3673922083
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 32287609,
+            "name": "PvP Target",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1195158366
+                ],
+                [
+                    3673922083
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 32287609,
+            "name": "PvP Target (Sans Rounds)",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1195158366
+                ],
+                [
+                    3673922083
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 32287609,
+            "name": "PvP Target (Sans Barrel)",
+            "plugs": [
+                [
+                    1885400500
+                ],
+                [
+                    1195158366
+                ],
+                [
+                    3673922083
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 32287609,
+            "name": "PvP Target (Sans Adagio)",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1195158366
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 32287609,
+            "name": "PvP Target (Sans Encore)",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3673922083
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 32287609,
+            "name": "PvP Target (Sans Perks)",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 32287609,
+            "name": "PvP Target (Sans Barrel/Rounds)",
+            "plugs": [
+                [
+                    1195158366
+                ],
+                [
+                    3673922083
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 32287609,
+            "name": "PvP Target (Just Encore)",
+            "plugs": [
+                [
+                    1195158366
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 32287609,
+            "name": "PvP Target (Just Adagio)",
+            "plugs": [
+                [
+                    3673922083
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
         }
     ]
 }
