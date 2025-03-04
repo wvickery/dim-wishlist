@@ -786,6 +786,162 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 3776430252,
+            "name": "PVE Target",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    776531651
+                ],
+                [
+                    1464081238
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3776430252,
+            "name": "PVE Target (Just Perks)",
+            "plugs": [
+                [
+                    776531651
+                ],
+                [
+                    1464081238
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3776430252,
+            "name": "PVE Target (Just Perk 1)",
+            "plugs": [
+                [
+                    776531651
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3776430252,
+            "name": "PVE Target (Just Perk 2)",
+            "plugs": [
+                [
+                    1464081238,
+                    1134488199
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3776430252,
+            "name": "PVP Target",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    2579169598
+                ],
+                [
+                    555281244,
+                    1134488199
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3776430252,
+            "name": "PVP Target (Just Perks)",
+            "plugs": [
+                [
+                    2579169598
+                ],
+                [
+                    555281244,
+                    1134488199
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3776430252,
+            "name": "PVP Target (Just Perk 1)",
+            "plugs": [
+                [
+                    2579169598
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3776430252,
+            "name": "PVP Target (Just Perk 2)",
+            "plugs": [
+                [
+                    555281244,
+                    1134488199
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
