@@ -726,6 +726,66 @@
                 ]
             ],
             "tags": []
+        },
+        {
+            "description": "",
+            "hash": 3615421669,
+            "name": "Champion God Roll",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    1483536627
+                ],
+                [
+                    124408337
+                ],
+                [
+                    2978966579
+                ],
+                [
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3615421669,
+            "name": "Champion God Roll (Perks)",
+            "plugs": [
+                [
+                    124408337
+                ],
+                [
+                    2978966579
+                ],
+                [
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3615421669,
+            "name": "Champion God Roll (Just Chill Clip)",
+            "plugs": [
+                [
+                    2978966579
+                ],
+                [
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
