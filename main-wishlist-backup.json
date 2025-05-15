@@ -1150,6 +1150,105 @@
             "tags": [
                 "PVP"
             ]
+        },
+        {
+            "description": "",
+            "hash": 1757177186,
+            "name": "Chase",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1757177186,
+            "name": "Chase",
+            "plugs": [
+                [
+                    1561002382
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1757177186,
+            "name": "Chase",
+            "plugs": [
+                [
+                    1561002382
+                ],
+                [
+                    3643424744
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1757177186,
+            "name": "Chase",
+            "plugs": [
+                [
+                    3643424744
+                ],
+                [
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1757177186,
+            "name": "Chase",
+            "plugs": [
+                [
+                    3643424744
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1757177186,
+            "name": "Chase",
+            "plugs": [
+                [
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }
