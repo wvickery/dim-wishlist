@@ -177,6 +177,36 @@ dimwishlist:item=751880654&perks=1955165503,1050127423
 dimwishlist:item=751880654&perks=2848615171,1050127423
 
 
+// Watchful Eye - Chase (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1757177186&perks=839105230,1561002382,3643424744,3966416502
+
+
+// Watchful Eye - Chase (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1757177186&perks=1561002382,3643424744,3966416502
+
+
+// Watchful Eye - Chase (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1757177186&perks=1561002382,3643424744
+
+
+// Watchful Eye - Chase (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1757177186&perks=3643424744,3966416502
+
+
+// Watchful Eye - Chase (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1757177186&perks=3643424744
+
+
+// Watchful Eye - Chase (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1757177186&perks=3966416502
+
+
 // Adamantite - Target (god-pve)
 //notes: My God Roll tags:god-pve
 dimwishlist:item=3229982889&perks=1840239774,3230963543,692399809,2298656195
